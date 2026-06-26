@@ -30,8 +30,7 @@ An AI-powered application that generates an endless stream of fact cards from Wi
 
 ```text
 AI-Infinite-Knowledge-Feed/
-│── app.py
-│── requirements.txt
+│── mini_pro_kerala.ipynb
 │── README.md
 ```
 
@@ -58,12 +57,6 @@ pip install -r requirements.txt
 import os
 
 os.environ["GROQ_API_KEY"] = "your_api_key"
-```
-
-### Run the application
-
-```bash
-python app.py
 ```
 
 ---
