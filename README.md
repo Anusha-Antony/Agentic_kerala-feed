@@ -74,9 +74,7 @@ os.environ["GROQ_API_KEY"] = "your_api_key"
 ---
 
 ## 📸 Demo
-
-## Login Page
-(llm_kerala feed.png)
+![Demo Page](llm_kerala feed.png)
 
 ---
 
